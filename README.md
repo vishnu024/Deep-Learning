@@ -1,4 +1,4 @@
 # Deep-Learning
 
 
-Implementation of Deep Learning On APS data set
+Implementation of Deep Learning Concepts
